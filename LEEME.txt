@@ -1,0 +1,12 @@
+WEB RETRO 2005 — PROTOTIPO NO OFICIAL
+
+1. Abre index.html en tu navegador para ver la web.
+2. Para publicarla gratis, crea una cuenta en Netlify y arrastra la carpeta del sitio o el ZIP al área de despliegue manual.
+3. Esta maqueta usa nombres ficticios para los demás jugadores y marca claramente que no es un sitio oficial ni un plantel real.
+4. No incluye sistema real de socios, login, noticias dinámicas ni base de datos.
+
+SEO / GOOGLE
+- El HTML incluye título y descripción con el nombre para ayudar a los buscadores a entender la página.
+- Google decide por su cuenta si y cuándo indexa una página; no se puede garantizar que aparezca al buscar el nombre.
+- Tras publicar, usa Google Search Console para inspeccionar la URL pública y solicitar indexación.
+- Mantén claro que es una maqueta no oficial y que la lista de jugadores es ficticia.
